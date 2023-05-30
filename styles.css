@@ -1,2 +1,21 @@
 
 /* Your CSS Code here. */
+#button-1{
+	background:#874eff;
+}
+#button-2{
+	color:black;
+}
+#button-3{
+	background:green;
+}
+#button-4{
+	background:red;
+}
+#button-5{
+	background:#e9c14f;
+}
+#button-7{
+	background:lightgray;
+	color:black;
+}
